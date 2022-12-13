@@ -1,6 +1,6 @@
 # Robo SCCA
 
-## Este projeto trabalha em conjunto a o projeto SCCA ele faz a função de gerar as guias automaticamente,
+## Este projeto trabalha em conjunto a o SCCA ele faz a função de gerar as guias automaticamente,
 basta selecionar a quantidade de beneficios existentes em seu banco de dados.
 
 :notebook:
